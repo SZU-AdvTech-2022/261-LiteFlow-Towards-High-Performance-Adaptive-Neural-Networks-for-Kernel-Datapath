@@ -1,0 +1,8 @@
+@article{REPO-262,
+    author = "Zhang, Junxue and Zeng, Chaoliang and Zhang, Hong and Hu, Shuihai and Chen, Kai",
+    journal = "Proceedings of the ACM SIGCOMM 2022 Conference",
+    pages = "414¨C427",
+    title = "{LiteFlow: Towards High-Performance Adaptive Neural Networks for Kernel Datapath}",
+    volume = "14",
+    year = "2022"
+}
